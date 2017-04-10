@@ -8,4 +8,4 @@ Different plants have different needs. It's okay to use one sensor for one large
 - If the plants are in one row in multiple balcony troughs :seedling::seedling::seedling::seedling:, we will use a servo motor to move one single pipe along them. Of course the pipe is connected to water supply and a pump. The motor and the pump are both controlled by a microcontroller.
 - Use one pipe with multiple valves that are opened electronically.
   
-- If we want to water multiple pots, we can either use multiple pipes or control one pipe with a motor and spray the plants, knowing the angle and pressure needed. This has been done [[http://www.instructables.com/id/Arduino-Automatic-Watering-System-For-Plants/?ALLSTEPS][here]].
+- If we want to water multiple:seedling:pots, we can either use multiple pipes or control one pipe with a:seedling:motor and spray the plants, knowing:seedling:the angle and pressure needed. This:seedling:has been done [[http://www.instructables.com/id/Arduino-Automatic-Watering-System-For-Plants/?ALLSTEPS][here]].
