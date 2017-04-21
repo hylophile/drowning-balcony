@@ -1,6 +1,12 @@
 # drowning-balcony
 
 This project aims to realize a watering system for a balcony.
+## Hardware needed
+- [x] Arduino Uno
+- [ ] Jumper cables
+- [ ] Pipe
+- [ ] Humidity sensors
+- [ ] Pump
 ## Questions:
 ### Do we need multiple humidity sensors?
 Different plants have different needs. It's okay to use one sensor for one large pot if there's only one type of plant.
